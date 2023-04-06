@@ -1,0 +1,13 @@
+"git init" para criar um novo repositório vazio dentro dessa pasta.
+
+"git status" e ele mostra os arquivos que eu criei estão vermelhos
+
+O comando é "git remote add origin" e eu colo o endereço que eu copiei do GitHub. 
+
+"git add ." adicionar todos os arquivos
+
+"git status", novamente, para ver os que já foram indexados
+
+'git commit -m "mesnsagem"', -m de mensagem e eu vou dar uma mensagem
+
+"git push origin master"
