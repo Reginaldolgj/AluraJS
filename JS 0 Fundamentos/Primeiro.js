@@ -33,9 +33,9 @@
 // const idadeMinima = 18;
 // console.log(idadeCliente >= idadeMinima ? "Cerveja" : "Suco") //ternário 
 
-const nome = "Reginaldo";
-const idade = 2023 - 1996;
-const cidadeNasc = "São Paulo";
+// const nome = "Reginaldo";
+// const idade = 2023 - 1996;
+// const cidadeNasc = "São Paulo";
 
-const eu = `Meu nome é ${nome}, minha idade é ${idade} e nasci na cidade de ${cidadeNasc}`;
-console.log(eu);
+// const eu = `Meu nome é ${nome}, minha idade é ${idade} e nasci na cidade de ${cidadeNasc}`;
+// console.log(eu);
