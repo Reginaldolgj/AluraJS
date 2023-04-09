@@ -1,6 +1,6 @@
 const notas = [7, 7, 8, 9];
 
-// os 3 pontos são o que faz ser clonado sem modificar o array clonado.
+// os 3 pontos são o que faz ser clonado sem modificar o array clonado. (spread operator ... (ou operador de espalhamento))
 const novasNotas = [...notas,100]; //O 100 também é inserido no array novo. Outra forma de fazer o push.
 
 novasNotas.push(10);
