@@ -1,0 +1,9 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/Reginaldolgj/AluraJS.git",
+  "author": "Reginaldo <reginaldolgj@gmail.com>",
+  "license": "MIT"
+}

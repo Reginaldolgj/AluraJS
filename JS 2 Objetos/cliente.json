@@ -1,0 +1,11 @@
+{
+    "nome": "reginaldo",
+    "email": "reginaldo@firma.com",
+    "telefone": ["11223344", "11922334453"],
+    "endereco": {
+      "rua": "R. reginaldo",
+      "numero": 202,
+      "apartamento": true,
+      "complemento": "ap 934"
+    }
+  }
