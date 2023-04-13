@@ -15,3 +15,5 @@ for (let i = 0; i < notasGerais.length; i++) {
 media = media/notasGerais.length
 
 console.log(media)
+
+// fim
