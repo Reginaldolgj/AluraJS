@@ -17,11 +17,11 @@ export class Negociacao {
         return this._quantidade;
     }
 
-    get valor():number {
+    get valor(): number {
         return this._valor;
     }
 
-    get volume():number {
+    get volume(): number {
         return this._quantidade * this._valor;
     }
-} 
+}
